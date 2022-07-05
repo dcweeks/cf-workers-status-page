@@ -15,8 +15,8 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
+  - id: dudesnude.com # unique identifier
+    name: DN Home
     description: '' # default=empty
     url: 'https://dudesnude.com/' # URL to fetch
     method: GET # default=GET
